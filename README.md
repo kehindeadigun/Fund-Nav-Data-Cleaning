@@ -1,4 +1,4 @@
-# Nav Sheet Data Cleaning
+# Fund Nav Data Cleaning
 This repository contains a project for cleaning some messy weekly stock information over a ten year period for use in testing and developing an algorithm.
 
 ---
